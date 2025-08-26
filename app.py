@@ -14,7 +14,7 @@ import numpy as np
 
 # Page configuration (no icons/emojis)
 st.set_page_config(
-    page_title="Emergency Management Dashboard",
+    page_title="Disaster Law Dashboard",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -617,4 +617,5 @@ def main():
     )
 
 if __name__ == "__main__":
+
     main()
